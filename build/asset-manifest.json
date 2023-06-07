@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcd5f202.css",
+    "main.js": "/static/js/main.aefaf245.js",
+    "static/media/marvel.jpg": "/static/media/marvel.3bcb2bd61547c7b14c4e.jpg",
+    "index.html": "/index.html",
+    "main.fcd5f202.css.map": "/static/css/main.fcd5f202.css.map",
+    "main.aefaf245.js.map": "/static/js/main.aefaf245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd5f202.css",
+    "static/js/main.aefaf245.js"
+  ]
+}
